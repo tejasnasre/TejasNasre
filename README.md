@@ -1,4 +1,4 @@
-![Header](https://github.com/account)
+![Header](https://avatars.githubusercontent.com/u/113225478?s=400&u=eb38c204dd3218df598756d86188bceed348054f&v=4)
 
 # Hi there, I'm Tejas Nasre! 👋
 
