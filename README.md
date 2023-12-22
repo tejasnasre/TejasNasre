@@ -1,5 +1,3 @@
-![Header](https://avatars.githubusercontent.com/u/113225478?s=400&u=eb38c204dd3218df598756d86188bceed348054f&v=4)
-
 # Hi there, I'm Tejas Nasre! 👋
 
 Aspiring Full Stack Developer | Frontend Enthusiast | Lifelong Learner |<a href="https://www.linkedin.com/in/tejasnasre/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5" alt="LinkedIn"></a> |<a href="https://twitter.com/tejas07777"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter"></a>
