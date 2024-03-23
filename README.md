@@ -26,10 +26,9 @@ I am Tejas Nasre, an AI student with a passion for exploring the endless possibi
 ## 🎉 Let's Connect!
 
 I'm always excited to connect with fellow developers and learners. Reach out to me on LinkedIn or Twitter, and let's collaborate and learn together.
+
 [![TejasNasre's GitHub | Stats](https://stats.quine.sh/TejasNasre/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TejasNasre)
 [![TejasNasre's GitHub | Dependencies](https://stats.quine.sh/TejasNasre/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TejasNasre)
-[![TejasNasre's GitHub | Topics Over Time](https://stats.quine.sh/TejasNasre/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TejasNasre)
-[![TejasNasre's GitHub | Languages Over Time](https://stats.quine.sh/TejasNasre/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TejasNasre)
 ---
 
 <p align="center">Thank you for visiting my profile! Let's code, design, and build amazing things.</p>
